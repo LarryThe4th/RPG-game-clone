@@ -35,8 +35,7 @@ public class ScreenFadeControl : MonoBehaviour {
 	public void Appear(int speed = animationPlayBackSpeed_normal, Action appearEnded = null) {
 		onAppearEnded = appearEnded;
 		screenFadeAnimator.speed = speed;
-		screenFadeAnimator.SetBool("Appear", true);
-		
+		screenFadeAnimator.SetBool("Appear", true);	
 	}
 
 	public void InstantBackOut() {
