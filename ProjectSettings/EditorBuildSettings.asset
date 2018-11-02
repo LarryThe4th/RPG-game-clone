@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/EstateManagement.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CampaignSelection.unity
+    guid: 2a21366740354154ea6a3ae3b3867357
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 1883cf819dd1a9443b22c476698e8cec
+  - enabled: 1
+    path: Assets/Scenes/Raid.unity
+    guid: 844476eedd06e764eb072890fc647c99
   m_configObjects: {}
